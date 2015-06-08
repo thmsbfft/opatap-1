@@ -11,6 +11,8 @@ Make sure the OP-1 is plugged in. Open
 
 Tuning the OP-1's mode in OP-1 (not CTRL) lets you use the OP-1's sequencer on Patatap.
 
+![OP-1](https://github.com/thmsbfft/OPATAP-1/blob/master/sequencer.png?raw=true "OP-1")
+
 ## Credits
 
 [Patatap](http://patatap.com/) • [jonobr1](http://works.jonobr1.com/Patatap) & [Lullatone](http://www.lullatone.com/)
