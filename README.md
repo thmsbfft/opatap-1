@@ -5,11 +5,11 @@ A script to control Jono Brandel's [Patatap.com](http://patatap.com/) with Teena
 ## Installation
 
 Make sure the OP-1 is plugged in. Open 
-[patatap.com](http://patatap.com/) on Chrome. Grab the code, paste it in the console. Play.
+[patatap.com](http://patatap.com/) on Chrome. Grab [the code](opatap-1.js), paste it in the console. Play.
 
 ## Did you know?
 
-Tuning the OP-1's mode in OP-1 (not CTRL) lets you use the OP-1's sequencer on Patatap.
+Tuning the OP-1's mode in OP-1 (not CTRL) lets you use the OP-1's sequencers on Patatap.
 
 ![OP-1](https://github.com/thmsbfft/OPATAP-1/blob/master/sequencer.png?raw=true "OP-1")
 
